@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delfos.Android", "Delfos\De
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delfos.iOS", "Delfos\Delfos.iOS\Delfos.iOS.csproj", "{F286910B-EF39-4D60-B025-16FEAEDC483E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delfos", "Delfos\Delfos\Delfos.csproj", "{99F4B9F1-0EE6-4250-9E07-BDCE4AFF150E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delfos", "Delfos\Delfos\Delfos.csproj", "{99F4B9F1-0EE6-4250-9E07-BDCE4AFF150E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

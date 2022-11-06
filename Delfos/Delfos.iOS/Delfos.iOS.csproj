@@ -129,7 +129,7 @@
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\Delfos\Delfos.csproj">
-      <Project>{CB12CCDB-4EDB-4C37-A180-F62F4C9E9B14}</Project>
+      <Project>{99F4B9F1-0EE6-4250-9E07-BDCE4AFF150E}</Project>
       <Name>Delfos</Name>
     </ProjectReference>
   </ItemGroup>
