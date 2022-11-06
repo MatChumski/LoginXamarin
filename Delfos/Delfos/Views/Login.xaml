@@ -55,6 +55,7 @@
                     Text="Login"
                     Command="{Binding LoginCommand}"
                     BackgroundColor="Black"
+                    TextColor="White"
                     Margin="0, 15, 0, 0"
                     FontSize="22"
                     FontAttributes="Bold"
